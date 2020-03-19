@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+    <base>
+        <platform>Windows</platform>
+        <browser>Chrome</browser>
+        <url>http://localhost:8081/ecshop/admin</url>
+            <login username="admin" password="test1234"/>
+            <login username="admin1" password="test1234"/>
+
+        <test>
+            <city>深圳</city>
+            <city>长沙</city>
+        </test>
+
+    </base>
+</info>
